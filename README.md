@@ -1,2 +1,2 @@
 # git_probe
-Testing git kraken
+Testing Git kraken
